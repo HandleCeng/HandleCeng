@@ -1,6 +1,6 @@
 ###  Who I Am
 
-C/C++ Developer with expertise in algorithmic systems development and AI management at Stars. I focus on designing efficient algorithms and managing AI systems to create optimized, high-performance game solutions. Always striving for innovation and performance, I specialize in crafting scalable architectures and enhancing game mechanics through advanced AI techniques.
+Student in development, passionate about cybersecurity, Python, and currently learning C++ 🔥 I love Resident Evil, especially on game engines. I love kebab 
 
 
 ### Skills:
