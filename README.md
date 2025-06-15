@@ -5,4 +5,4 @@
 <p align="left">
 </p>
 
-<h1 align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</h1>
+< align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</>
