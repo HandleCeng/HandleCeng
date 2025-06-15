@@ -7,6 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=py,html,css,wasm" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,arch,bash,cpp,css,docker,notion,aws" alt="My Skills" />
   </a>
 </p>
